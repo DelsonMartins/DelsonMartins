@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/delsonmartins/)](https://www.linkedin.com/in/delsonmartins/)
 [![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:delsonmartins@terra.com.br)](mailto:delsonmartins@terra.com.br)
 
-### Software Engineer and System Analyst @ AMcom | Philips
+### Software Engineer and System Analyst
 
 
 <p  align="left"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">
